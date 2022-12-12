@@ -7,7 +7,7 @@
 
 <br />
 
-Hi, I'm [Trypal](https://trypal.dev), a Java Developer 🚀 from Hungary, I'm a Developer at 🙍🏽‍♂️ [VanityEmpire](https://vanityempire.hu). Maybe on more servers?
+Hi, I'm [Trypal](https://trypal.dev)! I'm Java Developer from Hungary. I'm currently Developer at [VanityEmpire](https://vanityempire.hu). Maybe on more servers?
   
 
 - 👨🏽‍💻 I’m currently working on private projects :wink:;
